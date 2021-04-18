@@ -19,14 +19,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a59f235-8fef-4fe2-bf99-3022245483a5" name="Default Changelist" comment="" />
+    <list default="true" id="5a59f235-8fef-4fe2-bf99-3022245483a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apple_id_Search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Album_ID_Search/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Bugs_Album_ID_Search/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Album_ID_Search/Find_Album_ID_by_Artist_and_Track _Plus_url_encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Album_ID_Search/Find_Album_ID_by_Artist_and_Track.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Album_ID_Search/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Track_ID_Search/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Bugs_Track_ID_Search/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Track_ID_Search/Bugs_Trackid_Scraping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bugs_Track_ID_Search/Bugs_Trackid_Scraping_Upgrade_Version.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1mdpi47QzR7vRej2tLvst6QdLit" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Apple_id_Search">
+  <component name="RunManager" selected="Python.main">
     <configuration name="검색실험" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Apple_id" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,15 +210,22 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="677" key="GridCell.Tab.0.bottom" timestamp="1618726635609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="677" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618726635609" />
+    <state width="1899" height="677" key="GridCell.Tab.0.center" timestamp="1618726635608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="677" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618726635608" />
+    <state width="1899" height="677" key="GridCell.Tab.0.left" timestamp="1618726635608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="677" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618726635608" />
+    <state width="1899" height="677" key="GridCell.Tab.0.right" timestamp="1618726635608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="677" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618726635608" />
   </component>
 </project>
