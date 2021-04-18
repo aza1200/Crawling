@@ -7,7 +7,7 @@
     3. from kor name,eng name -> id list -> final check       
     4. Next Step : Api-Call or Multi Processing       
 ## ● Bugs_Album_ID_Search               
-    1 . From Artist Name, Album Name to Bugs ID    
+    1. From Artist Name, Album Name to Bugs ID    
     2. If there is one more datas, continue  fill null    
     3. Plus_url_encoding : not selenium (more fast)    
 ## ● Bugs_Track_ID_Search        
